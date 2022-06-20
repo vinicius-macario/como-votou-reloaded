@@ -1,6 +1,4 @@
-##Trabalho em desenvolvimento
-
-#Como votou sua vizinhança _Reloaded_
+##Como votou suma vizinhança## _Reloaded_
 
 Notebooks para geração de mapa (shapefiles) com os locais de votação das eleições e os respectivos resultados.
 
